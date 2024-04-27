@@ -1,0 +1,35 @@
+[
+    {
+        "winery": "Krug",
+        "wine": "Clos d'Ambonnay Blanc de Noirs Brut Champagne 1995",
+        "rating": {
+            "average": "4.9",
+            "reviews": "92 ratings"
+        },
+        "location": "France\n·\nChampagne",
+        "image": "https://images.vivino.com/thumbs/DPq0ayGPR4SBeTDsYzLiiA_pb_x300.png",
+        "id": 1
+    },
+    {
+        "winery": "Dom Pérignon",
+        "wine": "P2 Plénitude Brut Champagne 1995",
+        "rating": {
+            "average": "4.9",
+            "reviews": "69 ratings"
+        },
+        "location": "France\n·\nChampagne",
+        "image": "https://images.vivino.com/thumbs/n5By4_iWSS2Zmf7anQtL_Q_pb_x300.png",
+        "id": 2
+    },
+    {
+        "winery": "Perrier-Jouët",
+        "wine": "Belle Epoque Brut Champagne 1979",
+        "rating": {
+            "average": "4.9",
+            "reviews": "42 ratings"
+        },
+        "location": "France\n·\nChampagne",
+        "image": "https://images.vivino.com/thumbs/B976g0gBR1G4iniATCCKIQ_pb_x300.png",
+        "id": 3
+    }
+    ]

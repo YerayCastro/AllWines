@@ -1,0 +1,36 @@
+[
+    {
+        "winery": "Antica Terra",
+        "wine": "Angelicall Rosé 2014",
+        "rating": {
+            "average": "4.7",
+            "reviews": "33 ratings"
+        },
+        "location": "United States\n·\nWillamette Valley",
+        "image": "https://images.vivino.com/thumbs/LRmcfSasTD22xR6lRSKcIw_pb_x300.png",
+        "id": 1
+    },
+    {
+        "winery": "Antinori",
+        "wine": "Fonte de' Medici 2011",
+        "rating": {
+            "average": "4.6",
+            "reviews": "199 ratings"
+        },
+        "location": "Italy\n·\nVino d'Italia",
+        "image": "https://images.vivino.com/highlights/icon/top_ranked.svg",
+        "id": 2
+    },
+    {
+        "winery": "Minuty",
+        "wine": "281 Rosé 2014",
+        "rating": {
+            "average": "4.6",
+            "reviews": "39 ratings"
+        },
+        "location": "France\n·\nProvence",
+        "image": "https://images.vivino.com/thumbs/CRBSmK3xRuqHdCg4TpBpVw_pb_x300.png",
+        "id": 3
+    }
+
+]
